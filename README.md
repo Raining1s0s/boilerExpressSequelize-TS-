@@ -3,14 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-2.20.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D6.10.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D10.x-blue.svg" />
-  <a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize#readme" target="_blank">
+  <a href="https://github.com/Raining1s0s/boilerExpressSequelize-TS-?tab=readme-ov-file" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/masb0ymas/boilerplate-express-typescript-sequelize/blob/master/LICENSE.md" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
@@ -43,7 +37,7 @@
 clone this repo with `https` / `ssh` / `github cli`
 
 ```sh
-git clone https://github.com/masb0ymas/boilerplate-express-typescript-sequelize.git
+git clone https://github.com/Raining1s0s/boilerExpressSequelize-TS-.git
 ```
 
 After cloning this repo, make sure you have `duplicated` the `.env.example` file to `.env`, don't let the .env.example file be deleted or renamed.
@@ -310,25 +304,6 @@ OAUTH_REFRESH_TOKEN=your_refresh_token
 
 [Setup Google Oauth](https://medium.com/@nickroach_50526/sending-emails-with-node-js-using-smtp-gmail-and-oauth2-316fe9c790a1)
 
-## Author
-
-👤 **masb0ymas**
-
-- Website: https://resume.masb0ymas.vercel.app
-- Twitter: [@masb0ymas](https://twitter.com/masb0ymas)
-- Github: [@masb0ymas](https://github.com/masb0ymas)
-- LinkedIn: [@masb0ymas](https://www.linkedin.com/in/masb0ymas/)
-
-## Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I03MVAI)
-
-[<img height="40" src="https://trakteer.id/images/mix/navbar-logo-lite.png">](https://trakteer.id/masb0ymas)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
