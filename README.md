@@ -37,7 +37,7 @@
 clone this repo with `https` / `ssh` / `github cli`
 
 ```sh
-git clone https://github.com/Raining1s0s/boilerExpressSequelize-TS-.git
+git clone https://github.com/Raining1s0s/boilerExpressSequelize-TS.git
 ```
 
 After cloning this repo, make sure you have `duplicated` the `.env.example` file to `.env`, don't let the .env.example file be deleted or renamed.
